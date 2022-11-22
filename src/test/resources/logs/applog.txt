@@ -1,0 +1,92 @@
+INFO    2022-11-21 13:14:34,140 [main] testcases.OpenAccountTest  - Test Execution Started !!!
+INFO    2022-11-21 13:14:34,140 [main] testcases.OpenAccountTest  - locators Properties file loaded
+INFO    2022-11-21 13:14:34,668 [TestNG-tests-2] java.lang.Class  - DataUtil: getData... addCustomerTest
+INFO    2022-11-21 13:14:34,668 [TestNG-tests-3] java.lang.Class  - DataUtil: getData... openAccountTest
+INFO    2022-11-21 13:14:34,669 [TestNG-tests-2] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,669 [TestNG-tests-3] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,735 [TestNG-PoolService-2] java.lang.Class  - DataUtil: checkExecution.... -testSuiteName: BankManagerSuite -testCaseName: OpenAccountTest -dataRunMode: Y
+INFO    2022-11-21 13:14:34,735 [TestNG-PoolService-2] java.lang.Class  - DataUtil: isSuiteRunnable... BankManagerSuite
+INFO    2022-11-21 13:14:34,735 [TestNG-PoolService-2] java.lang.Class  - DataUtil: checkExecution.... -testSuiteName: BankManagerSuite -testCaseName: AddCustomerTest -dataRunMode: Y
+INFO    2022-11-21 13:14:34,735 [TestNG-PoolService-2] java.lang.Class  - DataUtil: isSuiteRunnable... BankManagerSuite
+INFO    2022-11-21 13:14:34,751 [TestNG-PoolService-0] java.lang.Class  - DataUtil: checkExecution.... -testSuiteName: BankManagerSuite -testCaseName: OpenAccountTest -dataRunMode: Y
+INFO    2022-11-21 13:14:34,751 [TestNG-PoolService-0] java.lang.Class  - DataUtil: checkExecution.... -testSuiteName: BankManagerSuite -testCaseName: AddCustomerTest -dataRunMode: Y
+INFO    2022-11-21 13:14:34,766 [TestNG-PoolService-2] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,766 [TestNG-PoolService-2] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,766 [TestNG-PoolService-2] java.lang.Class  - DataUtil: isTestRunnable... OpenAccountTest
+INFO    2022-11-21 13:14:34,766 [TestNG-PoolService-2] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,751 [TestNG-PoolService-1] java.lang.Class  - DataUtil: checkExecution.... -testSuiteName: BankManagerSuite -testCaseName: AddCustomerTest -dataRunMode: Y
+INFO    2022-11-21 13:14:34,751 [TestNG-PoolService-1] java.lang.Class  - DataUtil: checkExecution.... -testSuiteName: BankManagerSuite -testCaseName: OpenAccountTest -dataRunMode: Y
+INFO    2022-11-21 13:14:34,782 [TestNG-PoolService-1] java.lang.Class  - DataUtil: isSuiteRunnable... BankManagerSuite
+INFO    2022-11-21 13:14:34,751 [TestNG-PoolService-0] java.lang.Class  - DataUtil: isSuiteRunnable... BankManagerSuite
+INFO    2022-11-21 13:14:34,782 [TestNG-PoolService-1] java.lang.Class  - DataUtil: isSuiteRunnable... BankManagerSuite
+INFO    2022-11-21 13:14:34,766 [TestNG-PoolService-0] java.lang.Class  - DataUtil: isSuiteRunnable... BankManagerSuite
+INFO    2022-11-21 13:14:34,766 [TestNG-PoolService-2] java.lang.Class  - DataUtil: isTestRunnable... AddCustomerTest
+INFO    2022-11-21 13:14:34,782 [TestNG-PoolService-2] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-1] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-0] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-1] java.lang.Class  - DataUtil: isTestRunnable... AddCustomerTest
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-1] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-0] java.lang.Class  - DataUtil: isTestRunnable... AddCustomerTest
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-0] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-1] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-1] java.lang.Class  - DataUtil: isTestRunnable... OpenAccountTest
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-1] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-0] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-0] java.lang.Class  - DataUtil: isTestRunnable... OpenAccountTest
+INFO    2022-11-21 13:14:34,798 [TestNG-PoolService-0] utilities.ExcelReader  - ExcelReader: returns the row count in a sheet
+INFO    2022-11-21 13:14:38,085 [TestNG-PoolService-1] testcases.AddCustomerTest  - Launching Chrome Browser
+INFO    2022-11-21 13:14:38,085 [TestNG-PoolService-2] testcases.AddCustomerTest  - Launching Firefox Browser
+INFO    2022-11-21 13:14:38,132 [TestNG-PoolService-2] testcases.OpenAccountTest  - Launching Firefox Browser
+INFO    2022-11-21 13:14:38,164 [TestNG-PoolService-1] testcases.OpenAccountTest  - Launching Chrome Browser
+INFO    2022-11-21 13:14:38,164 [TestNG-PoolService-0] testcases.AddCustomerTest  - Launching Chrome Browser
+INFO    2022-11-21 13:14:38,256 [TestNG-tests-1] testcases.BankManagerLoginTest  - Launching Chrome Browser
+INFO    2022-11-21 13:14:38,288 [TestNG-PoolService-0] testcases.OpenAccountTest  - Launching Chrome Browser
+INFO    2022-11-21 13:14:43,848 [TestNG-PoolService-1] testcases.AddCustomerTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:14:44,362 [TestNG-PoolService-0] testcases.AddCustomerTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:14:45,321 [TestNG-PoolService-0] testcases.OpenAccountTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:14:45,380 [TestNG-PoolService-1] testcases.OpenAccountTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:14:45,484 [TestNG-PoolService-1] testcases.AddCustomerTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:14:45,655 [TestNG-PoolService-0] testcases.AddCustomerTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:14:46,244 [TestNG-tests-1] testcases.BankManagerLoginTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:14:51,078 [TestNG-PoolService-1] testcases.AddCustomerTest  - Clicking on an Element: startAddCustomerBtn_CSS
+INFO    2022-11-21 13:14:51,216 [TestNG-PoolService-0] testcases.AddCustomerTest  - Clicking on an Element: startAddCustomerBtn_CSS
+INFO    2022-11-21 13:14:51,389 [TestNG-PoolService-0] testcases.OpenAccountTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:14:51,572 [TestNG-PoolService-1] testcases.OpenAccountTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:14:51,721 [TestNG-PoolService-1] testcases.AddCustomerTest  - Typing in an Element: firstNameCustomer_CSS and entered the value as: Rahul
+INFO    2022-11-21 13:14:51,851 [TestNG-PoolService-0] testcases.AddCustomerTest  - Typing in an Element: firstNameCustomer_CSS and entered the value as: Raman
+INFO    2022-11-21 13:14:51,993 [TestNG-PoolService-1] testcases.AddCustomerTest  - Typing in an Element: lastNameCustomer_CSS and entered the value as: Layer
+INFO    2022-11-21 13:14:51,999 [TestNG-tests-1] testcases.BankManagerLoginTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:14:52,106 [TestNG-PoolService-0] testcases.AddCustomerTest  - Typing in an Element: lastNameCustomer_CSS and entered the value as: Aurora
+INFO    2022-11-21 13:14:52,107 [TestNG-PoolService-0] testcases.OpenAccountTest  - Clicking on an Element: startOpenAccountBtn_CSS
+INFO    2022-11-21 13:14:52,239 [TestNG-PoolService-1] testcases.AddCustomerTest  - Typing in an Element: postCodeCustomer_CSS and entered the value as: C69852
+INFO    2022-11-21 13:14:52,247 [TestNG-PoolService-1] testcases.OpenAccountTest  - Clicking on an Element: startOpenAccountBtn_CSS
+INFO    2022-11-21 13:14:52,285 [TestNG-PoolService-0] testcases.AddCustomerTest  - Typing in an Element: postCodeCustomer_CSS and entered the value as: A81650
+INFO    2022-11-21 13:14:52,462 [TestNG-tests-1] testcases.BankManagerLoginTest  - Finding an Element: startAddCustomerBtn_CSS
+INFO    2022-11-21 13:14:52,479 [TestNG-tests-1] testcases.BankManagerLoginTest  - Closing... Playwright
+INFO    2022-11-21 13:14:52,903 [TestNG-PoolService-0] testcases.OpenAccountTest  - Selecting in an Element: customerSelect_CSS and selected the value as: Harry Potter
+INFO    2022-11-21 13:14:52,937 [TestNG-PoolService-1] testcases.OpenAccountTest  - Selecting in an Element: customerSelect_CSS and selected the value as: Ron Weasly
+INFO    2022-11-21 13:14:52,966 [TestNG-PoolService-0] testcases.OpenAccountTest  - Selecting in an Element: currencySelect_CSS and selected the value as: Rupee
+INFO    2022-11-21 13:14:52,988 [TestNG-PoolService-1] testcases.OpenAccountTest  - Selecting in an Element: currencySelect_CSS and selected the value as: Dollar
+INFO    2022-11-21 13:14:56,491 [TestNG-PoolService-1] testcases.AddCustomerTest  - Clicking on an Element: AddCustomerBtn_CSS
+INFO    2022-11-21 13:14:56,494 [TestNG-PoolService-1] testcases.AddCustomerTest  - Closing... Playwright
+INFO    2022-11-21 13:14:56,616 [TestNG-PoolService-0] testcases.AddCustomerTest  - Clicking on an Element: AddCustomerBtn_CSS
+INFO    2022-11-21 13:14:56,618 [TestNG-PoolService-0] testcases.AddCustomerTest  - Closing... Playwright
+INFO    2022-11-21 13:14:57,176 [TestNG-PoolService-0] testcases.OpenAccountTest  - Clicking on an Element: OpenAccountBtn_CSS
+INFO    2022-11-21 13:14:57,180 [TestNG-PoolService-0] testcases.OpenAccountTest  - Closing... Playwright
+INFO    2022-11-21 13:14:57,404 [TestNG-PoolService-1] testcases.OpenAccountTest  - Clicking on an Element: OpenAccountBtn_CSS
+INFO    2022-11-21 13:14:57,416 [TestNG-PoolService-1] testcases.OpenAccountTest  - Closing... Playwright
+INFO    2022-11-21 13:15:03,297 [TestNG-PoolService-2] testcases.OpenAccountTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:15:04,274 [TestNG-PoolService-2] testcases.OpenAccountTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:15:06,623 [TestNG-PoolService-2] testcases.OpenAccountTest  - Clicking on an Element: startOpenAccountBtn_CSS
+INFO    2022-11-21 13:15:07,344 [TestNG-PoolService-2] testcases.OpenAccountTest  - Selecting in an Element: customerSelect_CSS and selected the value as: Hermoine Granger
+INFO    2022-11-21 13:15:07,501 [TestNG-PoolService-2] testcases.OpenAccountTest  - Selecting in an Element: currencySelect_CSS and selected the value as: Pound
+INFO    2022-11-21 13:15:12,005 [TestNG-PoolService-2] testcases.OpenAccountTest  - Clicking on an Element: OpenAccountBtn_CSS
+INFO    2022-11-21 13:15:12,009 [TestNG-PoolService-2] testcases.OpenAccountTest  - Closing... Playwright
+INFO    2022-11-21 13:15:19,279 [TestNG-PoolService-2] testcases.AddCustomerTest  - Navigate to : https://www.way2automation.com/angularjs-protractor/banking/#/login
+INFO    2022-11-21 13:15:20,023 [TestNG-PoolService-2] testcases.AddCustomerTest  - Clicking on an Element: bankManagerBtn_CSS
+INFO    2022-11-21 13:15:20,741 [TestNG-PoolService-2] testcases.AddCustomerTest  - Clicking on an Element: startAddCustomerBtn_CSS
+INFO    2022-11-21 13:15:21,198 [TestNG-PoolService-2] testcases.AddCustomerTest  - Typing in an Element: firstNameCustomer_CSS and entered the value as: Tom
+INFO    2022-11-21 13:15:21,513 [TestNG-PoolService-2] testcases.AddCustomerTest  - Typing in an Element: lastNameCustomer_CSS and entered the value as: Smith
+INFO    2022-11-21 13:15:21,589 [TestNG-PoolService-2] testcases.AddCustomerTest  - Typing in an Element: postCodeCustomer_CSS and entered the value as: T39323
+INFO    2022-11-21 13:15:25,743 [TestNG-PoolService-2] testcases.AddCustomerTest  - Clicking on an Element: AddCustomerBtn_CSS
+INFO    2022-11-21 13:15:25,744 [TestNG-PoolService-2] testcases.AddCustomerTest  - Closing... Playwright
