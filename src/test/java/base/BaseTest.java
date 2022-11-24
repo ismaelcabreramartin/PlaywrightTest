@@ -148,7 +148,7 @@ public class BaseTest {
 
             case "hearless":
                 log.info("Launching Hearless Mode");
-                return getPlaywright().chromium().launch(new BrowserType.LaunchOptions().setHeadless(true));
+                return getPlaywright().chromium().launch(new BrowserType.LaunchOptions().setHeadless(false));
 
             case "firefox":
                 log.info("Launching Firefox Browser");
