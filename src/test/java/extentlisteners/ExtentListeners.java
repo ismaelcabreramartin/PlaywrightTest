@@ -109,7 +109,7 @@ public class ExtentListeners implements ITestListener, ISuiteListener {
 
 	}
 
-	String messageBody;
+	/*String messageBody;
 	public void onFinish(ISuite suite) {
 
 		
@@ -135,6 +135,6 @@ public class ExtentListeners implements ITestListener, ISuiteListener {
 		}
 		
 
-	}
+	}*/
 
 }
