@@ -1,16 +1,5 @@
 package extentlisteners;
 
-import java.io.IOException;
-import java.net.InetAddress;
-import java.net.UnknownHostException;
-import java.util.Date;
-
-import org.testng.ISuite;
-import org.testng.ISuiteListener;
-import org.testng.ITestContext;
-import org.testng.ITestListener;
-import org.testng.ITestResult;
-
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.MediaEntityBuilder;
@@ -18,11 +7,10 @@ import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.markuputils.ExtentColor;
 import com.aventstack.extentreports.markuputils.Markup;
 import com.aventstack.extentreports.markuputils.MarkupHelper;
-import sun.jvm.hotspot.debugger.AddressException;
-import utilities.MonitoringMail;
-import utilities.TestConfig;
+import org.testng.*;
 
-import javax.mail.MessagingException;
+import java.io.IOException;
+import java.util.Date;
 
 public class ExtentListeners implements ITestListener, ISuiteListener {
 
